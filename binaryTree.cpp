@@ -17,7 +17,7 @@ public:
     }
 };
 // It is a comment to check the git status
-
+// It is one more comment to check the status
 node *buildTree(node *root)
 {
     cout << "Enter the data: " << endl;
