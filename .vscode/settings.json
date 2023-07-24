@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "utility": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "string": "cpp",
+    "algorithm": "cpp",
+    "array": "cpp",
+    "atomic": "cpp",
+    "bit": "cpp",
+    "deque": "cpp",
+    "iterator": "cpp",
+    "list": "cpp",
+    "map": "cpp",
+    "memory": "cpp",
+    "new": "cpp",
+    "set": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "xmemory": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp",
+    "iosfwd": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
