@@ -16,6 +16,7 @@ public:
         this->right = NULL;
     }
 };
+// It is a comment to check the git status
 
 node *buildTree(node *root)
 {
@@ -77,13 +78,13 @@ void inOrder(node *root)
         return;
 
     inOrder(root->left);
-    cout << root->data << " ";  
+    cout << root->data << " ";
     inOrder(root->right);
 }
 
 void preOrder(node *root)
 {
-    // base case    
+    // base case
     if (root == NULL)
         return;
 
